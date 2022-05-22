@@ -1,4 +1,5 @@
 <h3 align="center">Analysis of all Indian Premier League Cricket matches between 2008 and 2016.</h3>
+<p align="center"> <img src="ipl.jpg"></p>
 
 ## This is the ball by ball data analysis of all the IPL cricket matches till season 9. 
 
